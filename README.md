@@ -6,7 +6,10 @@
     
 📌 Introduction
 
-    Modern streaming platforms such as Netflix and Amazon Prime Video host thousands of movies, making it difficult for        users to discover relevant content efficiently. This project implements a Content-Based Movie Recommendation System that suggests movies based on similarity of content features such as genres, keywords, cast, and overview.
+    Modern streaming platforms such as Netflix and Amazon Prime Video host thousands of movies, 
+    making it difficult for users to discover relevant content efficiently. This project implements
+    a Content-Based Movie Recommendation System that suggests movies based on similarity of content 
+    features such as genres, keywords, cast, and overview.
 
 🎯 Business Objective
 
